@@ -82,3 +82,24 @@ The best sites for finding great freelance jobs and projects
 * [Guru](http://www.guru.com/)
 * [Staff](http://staff.com/)
 * [People Per Hour](http://www.peopleperhour.com/)
+
+## Career Blogs
+
+Great blogs for job searching, interviewing, and career development
+
+* [The Daily Muse](https://www.themuse.com/advice)
+* [The Huffington Post](http://www.huffingtonpost.com/news/job-search-advice/)
+* [Forbes Career Blog](http://www.forbes.com/sites/jacquelynsmith/#1c400327700f)
+* [Ask a Manager](http://www.askamanager.org/)
+* [Undercover Recruiter](http://theundercoverrecruiter.com/)
+* [Penelope Trunk](http://blog.penelopetrunk.com/)
+* [Career Woman Inc](http://www.careerwomaninc.com/blog/)
+* [Blogging 4 Jobs](http://www.blogging4jobs.com/)
+* [The Branding Muse](http://thebrandingmuse.com/)
+* [Avid Careerist](http://www.avidcareerist.com/executive-job-search-blog/)
+* [Lindsey Pollak](http://www.lindseypollak.com/blog/)
+* [Margaret Buj](http://www.interview-coach.co.uk/blog/)
+* [Ms Career Girl](http://www.mscareergirl.com/)
+* [Lifehacker](http://lifehacker.com/tag/career-spotlight)
+* [Mashable](http://mashable.com/category/job-search-series/)
+* [Career Sherpa](http://careersherpa.net/)
