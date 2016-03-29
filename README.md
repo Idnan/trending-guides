@@ -119,3 +119,18 @@ Develop your skills online and at your own pace
 * [TutsPlus Network](http://tutsplus.com/)
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
 * [Academic Earth](http://academicearth.org/)
+
+## Career Books
+
+Reading material for people who want to be successful and love their work
+
+* [The Start-up of You - Reid Hoffman and Ben Casnocha](http://www.thestartupofyou.com/)
+* [So Good They Can’t Ignore You  -  Cal Newport](http://calnewport.com/books/so-good/)
+* [The Adventures of Johnny Bunko - Dan Pink](http://www.danpink.com/books/johnny-bunko/)
+* [The Recession-Proof Graduate  - Charlie Hoehn](http://recessionproofgraduate.com/)
+* [The Rich Employee - James Altucher](http://www.jamesaltucher.com/2015/09/the-rich-employee/)
+* [What Color Is Your Parachute - Richard N. Bolles](http://www.jobhuntersbible.com/books/view/what-color-is-your-parachute-2016)
+* [Never Eat Alone: And Other Secrets to Success One Relationship at a Time - Keith Ferrazzi and Tal Rhaz](http://keithferrazzi.com/products/never-eat-alone)
+* [Lean In - Sheryl Sandberg](http://leanin.org/book/)
+* [Unlimited Power - Tony Robbins](http://www.amazon.com/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
+* [The Magic of Thinking Big - David J. Schwartz](http://www.amazon.com/gp/product/0671646788/ref=as_li_ss_tl?ie=UTF8&tag=glerik-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0671646788)
