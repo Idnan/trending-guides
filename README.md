@@ -134,3 +134,14 @@ Reading material for people who want to be successful and love their work
 * [Lean In - Sheryl Sandberg](http://leanin.org/book/)
 * [Unlimited Power - Tony Robbins](http://www.amazon.com/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
 * [The Magic of Thinking Big - David J. Schwartz](http://www.amazon.com/gp/product/0671646788/ref=as_li_ss_tl?ie=UTF8&tag=glerik-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0671646788)
+
+## Professional Networking
+
+The best online networking tools
+
+* [Meetup](http://www.meetup.com/)
+* [LinkedIn](https://www.linkedin.com/)
+* [Twitter](https://twitter.com/)
+* [Zerply](https://zerply.com/)
+* [Data.com](http://www.data.com/)
+* [Slack](https://slack.com/)
