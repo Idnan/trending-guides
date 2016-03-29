@@ -66,3 +66,19 @@ A collection of the best job interview resources
 * [Career Cup](https://www.careercup.com/)
 * [Business News Daily](http://www.businessnewsdaily.com/5796-job-interview-questions.html)
 * [Careerealism](http://www.careerealism.com/)
+
+## Freelance Websites
+
+The best sites for finding great freelance jobs and projects
+
+* [Upwork](https://www.upwork.com/)
+* [Toptal](https://www.toptal.com/)
+* [Fiverr](https://www.fiverr.com/)
+* [TaskRabbit](https://www.taskrabbit.com/)
+* [Freelancer](https://www.freelancer.com/)
+* [ifreelance](https://www.ifreelance.com/)
+* [Craigslist.com](http://craigslist.org/)
+* [99 Designs](http://99designs.com/)
+* [Guru](http://www.guru.com/)
+* [Staff](http://staff.com/)
+* [People Per Hour](http://www.peopleperhour.com/)
