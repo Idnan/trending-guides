@@ -103,3 +103,19 @@ Great blogs for job searching, interviewing, and career development
 * [Lifehacker](http://lifehacker.com/tag/career-spotlight)
 * [Mashable](http://mashable.com/category/job-search-series/)
 * [Career Sherpa](http://careersherpa.net/)
+
+## Online Learning
+
+Develop your skills online and at your own pace
+
+* [Skillshare](https://www.skillshare.com/)
+* [Lynda](https://www.lynda.com/)
+* [edX](https://www.edx.org/)
+* [Udemy](https://www.udemy.com/)
+* [Khan Academy](https://www.khanacademy.org/)
+* [Coursera](https://www.coursera.org/)
+* [One Month](https://onemonth.com/)
+* [Treehouse](https://teamtreehouse.com/)
+* [TutsPlus Network](http://tutsplus.com/)
+* [MIT Open Courseware](http://ocw.mit.edu/index.htm)
+* [Academic Earth](http://academicearth.org/)
