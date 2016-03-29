@@ -145,3 +145,18 @@ The best online networking tools
 * [Zerply](https://zerply.com/)
 * [Data.com](http://www.data.com/)
 * [Slack](https://slack.com/)
+
+## Career Videos
+
+Videos for the inspired and ambitious job seeker
+
+* [The New Way to Work - Charlie Hoehn](https://www.youtube.com/watch?v=e5qUR3tpEdA)
+* [How to find work you love - Scott Dinsmore](https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love?language=en#t-7483)
+* [Occasional Address - Tim Minchin](http://www.timminchin.com/2013/09/25/occasional-address/)
+* [What makes us feel good about our work - Dan Ariely](https://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work?language=en#t-28196)
+* [The happy secret to better work – Shawn Achor](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?language=en)
+* [Why you will fail to have a great career – Larry Smith](https://www.ted.com/talks/larry_smith_why_you_will_fail_to_have_a_great_career?language=en#t-1031)
+* [Oprah Winfrey on Career, Life, and Leadership](https://www.youtube.com/watch?v=6DlrqeWrczs)
+* [Commencement Address - Jim Carrey](https://www.youtube.com/watch?v=V80-gPkpH6M)
+* [Steve Jobs 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+* [Why We Do What We Do - Tony Robbins](https://www.youtube.com/watch?v=Cpc-t-Uwv1I&list=PL70DEC2B0568B5469&index=6)
