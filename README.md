@@ -1,4 +1,4 @@
-# Career Cahce
+# Career Cache
 
 A collection of the best career advice, resources, and tools to help you get a better job.
 
