@@ -112,6 +112,7 @@ Develop your skills online and at your own pace
 * [edX](https://www.edx.org/)
 * [Udemy](https://www.udemy.com/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [KnpUniversity](https://knpuniversity.com/)
 * [Coursera](https://www.coursera.org/)
 * [One Month](https://onemonth.com/)
 * [Treehouse](https://teamtreehouse.com/)
