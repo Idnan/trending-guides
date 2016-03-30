@@ -119,6 +119,7 @@ Develop your skills online and at your own pace
 * [TutsPlus Network](http://tutsplus.com/)
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
 * [Academic Earth](http://academicearth.org/)
+* [OpenLearning](https://www.openlearning.com/)
 
 ## Career Books
 
