@@ -4,7 +4,6 @@ A collection of the best career advice, resources, and tools to help you get a b
 
 Landing a job you love is tough. There are thousands of tools, tips, tricks, and resources out there - it's impossible to know which ones will help. We've curated all of the best tools, so you can focus on landing your next job instead of which tools to use.
 
-
 ## Resume & Portfolio Builders
 
 The best tools for building an eye-catching resume and portfolio
