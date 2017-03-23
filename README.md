@@ -28,6 +28,7 @@
 - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
 - [Babel Handbook - A guided handbook on how to use Babel and how to create plugins for Babel](https://github.com/thejameskyle/babel-handbook)
 - [CSS Reference - A free visual guide to the most popular CSS properties](https://github.com/jgthms/css-reference)
+- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 
 ## Contributions
 
